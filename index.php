@@ -56,7 +56,7 @@ $data = $response ? json_decode($response, true) : null;
         <?php else: ?>
             <p class="text-red-500">Unable to fetch weather data.</p>
         <?php endif; ?>
-
+<p> hello </p>
     </div>
 
 </body>
