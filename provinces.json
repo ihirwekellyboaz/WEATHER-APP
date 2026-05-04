@@ -1,0 +1,36 @@
+{
+  "Rwanda":  {
+    "provinces": [
+
+    "name": "Kigali city",
+      "districts": ["Gasabo", "Kicukiro", "Nyarugenge"]
+      } 
+      {'
+
+         "name":"Eastern province",
+         "districts": ["Nyagatare",
+         "Gatsibo","Kayonza","Rwamagana","Ngoma","Kirehe","Bugesera"]
+      }
+      {'
+
+         "name": "Northern province",
+         "districts": ["Burera",
+           "Gakenke","Gicumbi","Musanze","Rulindo"]
+      }
+      {'
+
+      "name": "Southern province",
+        "ditsrict": ["Kamonyi","Muhanga","Ruhango","Nyanza","Huye",
+          "Nyaruguru","Nyamagabe","Nyaruguru"]
+      }
+      {'
+
+        "name": "Western province",
+           "districts": ["Karongi","Ngororero","Nyabihu","Nyamasheke","Rubavu","Rusizi","Rutsiro"]
+      }
+    ]
+  }
+}
+        
+        
+        
