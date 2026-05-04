@@ -1,6 +1,7 @@
 {
   "Rwanda":  {
     "provinces": [
+      {
 
     "name": "Kigali city",
       "districts": ["Gasabo", "Kicukiro", "Nyarugenge"]
